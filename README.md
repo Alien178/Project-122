@@ -1,1 +1,1 @@
-# Project 123 - Alphabet Detection
+# Project 122 - Alphabet Recognition
